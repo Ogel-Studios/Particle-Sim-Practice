@@ -20,7 +20,7 @@ HEIGHT = 600
 
 speed = 50
 
-# I added a commit Yay!!!!
+#I am a new version
 
 def draw_particle(particle):
     particle.canvas_id = canvas.create_rectangle(
